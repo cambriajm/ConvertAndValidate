@@ -1,0 +1,15 @@
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\bin\Debug\net10.0\ConvertAndValidate.exe
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\bin\Debug\net10.0\ConvertAndValidate.deps.json
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\bin\Debug\net10.0\ConvertAndValidate.runtimeconfig.json
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\bin\Debug\net10.0\ConvertAndValidate.dll
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\bin\Debug\net10.0\ConvertAndValidate.pdb
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\obj\Debug\net10.0\ConvertAndValidate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\obj\Debug\net10.0\ConvertAndValidate.AssemblyInfoInputs.cache
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\obj\Debug\net10.0\ConvertAndValidate.AssemblyInfo.cs
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\obj\Debug\net10.0\ConvertAndValidate.csproj.CoreCompileInputs.cache
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\obj\Debug\net10.0\ConvertAndValidate.sourcelink.json
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\obj\Debug\net10.0\ConvertAndValidate.dll
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\obj\Debug\net10.0\refint\ConvertAndValidate.dll
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\obj\Debug\net10.0\ConvertAndValidate.pdb
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\obj\Debug\net10.0\ConvertAndValidate.genruntimeconfig.cache
+C:\Users\cambr\OneDrive\Desktop\VisualStudioWork\ConvertAndValidate\ConvertAndValidate\ConvertAndValidate\obj\Debug\net10.0\ref\ConvertAndValidate.dll
