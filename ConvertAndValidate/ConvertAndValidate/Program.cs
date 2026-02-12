@@ -12,38 +12,42 @@
             Console.WriteLine("Enter a number please");
             string userInput = "";
             Console.ReadLine();
-            if else(ConvertToInt)
+            Console.WriteLine(ConvertToInt);
+             
+            try 
+                {
+
+            }
+            else  
             {
 
             }
-            catch
-            {
-
-            } 
+            
             //pause 
             Console.Read();
 
         }
-        static bool ConvertToInt(string input, out ref result)
+        static bool ConvertToInt(string input)
         {
             
             bool successful = false;
-            result = 0; //otu requires an argument no matter what
-            return successful;
-            //try 
-            //{
-            //   result = Convert.ToInt32(input);
-            //    Console.WriteLine($"Great!  is a number");
-            //}
+            //otu requires an argument no matter what
+             
+            try
+            {
+                int result = Convert.ToInt32(input);
+                Console.WriteLine($"Great!  is a number");
+            }
 
-            //catch 
-            //{
-            //    result = 0;
-            //    successful = true;
-            //    Console.WriteLine($" was not a number, try again");
-            //}
-            
-           
+            catch
+            {
+                int result = 0;
+                successful = true;
+                Console.WriteLine($" was not a number, try again");
+            }
+
+            return true;
+
         }
     }
 }

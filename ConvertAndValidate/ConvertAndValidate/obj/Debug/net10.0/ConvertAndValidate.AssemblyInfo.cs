@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConvertAndValidate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+537a4b715db91b6b356676750490355a3bab7f59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+581f4650104b810449da286087ed7463ce4adb48")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConvertAndValidate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConvertAndValidate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
