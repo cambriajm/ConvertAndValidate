@@ -12,41 +12,41 @@
             Console.WriteLine("Enter a number please");
             string userInput = "";
             Console.ReadLine();
-            try { ConvertToInt}
+            if else(ConvertToInt)
             {
 
-            } 
-
+            }
             catch
             {
 
             } 
-            
             //pause 
             Console.Read();
+
         }
-
-
-        static int ConvertToInt(string input, int ref result)
+        static bool ConvertToInt(string input, out ref result)
         {
             
             bool successful = false;
             result = 0; //otu requires an argument no matter what
-                //return successful;
-            try 
-            {
-               result = Convert.ToInt32(input);
-                Console.WriteLine($"Great!  is a number");
-            }
+            return successful;
+            //try 
+            //{
+            //   result = Convert.ToInt32(input);
+            //    Console.WriteLine($"Great!  is a number");
+            //}
 
-            catch 
-            {
-                result = 0;
-                successful = true;
-                Console.WriteLine($" was not a number, try again");
-            }
+            //catch 
+            //{
+            //    result = 0;
+            //    successful = true;
+            //    Console.WriteLine($" was not a number, try again");
+            //}
             
            
         }
     }
 }
+        
+
+
