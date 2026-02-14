@@ -9,45 +9,59 @@
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Enter a number please");
             string userInput = "";
-            Console.ReadLine();
-            Console.WriteLine(ConvertToInt);
-             
-            try 
-                {
 
-            }
-            else  
+            do // do this until while is fufilled 
             {
 
-            }
-            
+                Console.WriteLine("Enter a number please\n" +
+                    "or press q to quit, c to clear");
+                userInput = Console.ReadLine(); 
+
+                if (ConvertToInt(userInput, out int userOutput)) //based on input from user, does diff things
+                {
+                    Console.WriteLine($"Great! {userOutput} is a number");
+                }
+                else 
+                {
+                    Console.WriteLine($"Uhhhh... {userInput} was not a number, try again");
+                }
+                if(userInput == "C" || userInput == "c")
+                {
+                    Console.WriteLine("Okay! Console Clearing, press enter");
+                    Console.Read();
+                    Console.Clear();
+                    Console.Read();
+                }
+
+            } while (userInput != "Q" && userInput != "q");
+
+            Console.Clear();
+            Console.WriteLine("Adios brochacho!");
             //pause 
             Console.Read();
 
         }
-        static bool ConvertToInt(string input)
+        static bool ConvertToInt(string input, out int result)//convert number method
         {
             
-            bool successful = false;
+            bool successful = true;
+            result = 0;
             //otu requires an argument no matter what
              
             try
             {
-                int result = Convert.ToInt32(input);
-                Console.WriteLine($"Great!  is a number");
+                 result = Convert.ToInt32(input);
+                return true;
             }
 
-            catch
+            catch//if not a number it will show this false to the main 
             {
-                int result = 0;
-                successful = true;
-                Console.WriteLine($" was not a number, try again");
+                result = 0;
+                return false;
             }
 
-            return true;
-
+            
         }
     }
 }
